@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimni Senarathna</h1>
 <h3 align="center">A passionate tech enthusiast,Eager to explore endless possibilities of technology and ready to make a difference with the bearing Skillset.</h3>
 
-<img align=“right” alit=“coding_image” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw0p1K3pv7B4-dxAsCBB5al3&ust=1679006653617000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjB5LyB3_0CFQAAAAAdAAAAABAD”>
+<img align=“right” alit=“coding_image” width=“400” src=“￼https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnisenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="nimnisenarathna" /> </p>
 
