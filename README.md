@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnisenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="nimnisenarathna" /> </p>
 
-- 🌱 I’m currently learning **React, Wordpress, PHP, R, Bootstrap and ML with python**
+- 🌱 I’m currently learning **dotnet, azure functions, React, Flutter and ML**
 
 - 📫 How to reach me **senarathnanimni@gmail.com**
 
